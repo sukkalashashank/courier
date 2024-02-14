@@ -374,23 +374,23 @@ BEGIN
     -- Populate the associative array with neighborhood names and their populations
 vilnius('	Verkiai') := '39697';
 
-vilnius('Pašilaiiai') := '25674';
+vilnius('Fabijoniškes') := '25674';
 
 vilnius('Fabijoniškes') := '36644';
 
-vilnius('	Antakalnis?') := '36604';
+vilnius('	Fabijoniškes?') := '36604';
 
-vilnius('	Antakalnis') := '47410';
+vilnius('	Fabijoniškes') := '47410';
 
-vilnius('	Antakalnis') := '31175';
+vilnius('	Fabijoniškes') := '31175';
 
-vilnius('	Antakalnis') := '32164';
+vilnius('	Fabijoniškes') := '32164';
 
-vilnius('	Antakalnis') := '24749';
+vilnius('	Fabijoniškes') := '24749';
 
-vilnius('	Antakalnis Vilnia') := '32775';
+vilnius('	Fabijoniškes Vilnia') := '32775';
 
-vilnius('	Antakalnis') := '33457';
+vilnius('	Fabijoniškes') := '33457';
 
     -- Get the first key in the associative array
     neighbo := vilnius.FIRST;
