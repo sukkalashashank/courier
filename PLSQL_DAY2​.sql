@@ -372,7 +372,7 @@ DECLARE
     popl VARCHAR2(60);
 BEGIN
     -- Populate the associative array with neighborhood names and their populations
-vilnius('	Verkiai') := '39697';
+vilnius(Fabijoniškes) := '39697';
 
 vilnius('Fabijoniškes') := '25674';
 
